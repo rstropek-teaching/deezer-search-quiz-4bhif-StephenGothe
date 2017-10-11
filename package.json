@@ -1,0 +1,16 @@
+{
+  "name": "hue_03",
+  "version": "1.0.0",
+  "description": "",
+  "main": "cors-proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "npm build . "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cors-anywhere": "^0.4.0",
+    "typescript": "^2.5.3"
+  }
+}
